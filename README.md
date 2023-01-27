@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on open source
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: Been in the same room as Michelle Obama
